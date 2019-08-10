@@ -191,5 +191,10 @@ namespace COMP123_S2019_Lab_Data_Access_with_LINQ
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
